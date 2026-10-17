@@ -1,0 +1,2104 @@
+{
+  "version": "AI_LOVER_AUTOMATED_VISUAL_REVIEW_V1",
+  "generatedAt": "2026-10-16T11:28:59.243Z",
+  "previewCommit": "dfdae65b4b8a81d7a77e6afcaf6f3e36d3dad586",
+  "canonicalViewport": {
+    "width": 390,
+    "height": 844
+  },
+  "device": {
+    "deviceScaleFactor": 1,
+    "mobile": true,
+    "hasTouch": true
+  },
+  "browser": "Chromium 149.0.7827.55",
+  "sourceUrl": "https://clairesun6767.github.io/ai-lover-ui-preview/",
+  "profile": "v1-3-d-1",
+  "screens": [
+    {
+      "id": "city-8-area-candidates",
+      "file": "01-city-8-area-overview.png",
+      "route": "https://clairesun6767.github.io/ai-lover-ui-preview/game.html?review=1&spatial=1&spatialSection=city",
+      "surfaceId": "city-8-area-candidates",
+      "surfaceName": "city 8 area candidates",
+      "entryAction": "依腳本互動進入此畫面狀態",
+      "fixtureRequired": false,
+      "screenshotRequired": true,
+      "variantGroup": null,
+      "reasonIfExcluded": null,
+      "expectedVisible": [],
+      "expectedHidden": [],
+      "mode": "REVIEW_ONLY",
+      "fixture": "PREVIEW_RELATIONSHIP_FIXTURE",
+      "relationshipState": null,
+      "presenceState": null,
+      "worldTime": "DAY 1 · MORNING",
+      "areaId": null,
+      "mapVariant": null,
+      "voicePlaybackFixture": null,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "setupActions": [
+        "COMPLETE_FIRST_RUN",
+        "DEFER_INCOMING_MESSAGE"
+      ],
+      "status": "PASS",
+      "reason": null,
+      "mediaStatus": null,
+      "requiredPresence": false,
+      "guideCharacterState": null,
+      "guidePresenceState": null,
+      "reviewModeEnabled": true,
+      "homePresentationMode": null,
+      "knowledgeDisclosureLevel": null,
+      "greetingStage": null,
+      "greetingAssetStatus": null,
+      "screenshotCaptured": true,
+      "screenshotFailure": null,
+      "uiReview": {
+        "cityAreaCandidateCount": 8,
+        "humanConfirmed": 0,
+        "legacyDistrictIdsPreserved": 6
+      },
+      "criticalTouchTargetsBelow44": [],
+      "consoleErrors": [],
+      "pageErrors": []
+    },
+    {
+      "id": "area-candidate-area-01",
+      "file": "02-area-01.png",
+      "route": "https://clairesun6767.github.io/ai-lover-ui-preview/game.html?review=1&spatial=1&spatialSection=areas",
+      "surfaceId": "area-candidate-area-01",
+      "surfaceName": "area candidate area 01",
+      "entryAction": "依腳本互動進入此畫面狀態",
+      "fixtureRequired": false,
+      "screenshotRequired": true,
+      "variantGroup": null,
+      "reasonIfExcluded": null,
+      "expectedVisible": [],
+      "expectedHidden": [],
+      "mode": "REVIEW_ONLY",
+      "fixture": "PREVIEW_RELATIONSHIP_FIXTURE",
+      "relationshipState": null,
+      "presenceState": null,
+      "worldTime": "DAY 1 · MORNING",
+      "areaId": "AREA-01",
+      "mapVariant": null,
+      "voicePlaybackFixture": null,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "setupActions": [
+        "COMPLETE_FIRST_RUN",
+        "DEFER_INCOMING_MESSAGE"
+      ],
+      "status": "PASS",
+      "reason": null,
+      "mediaStatus": null,
+      "requiredPresence": false,
+      "guideCharacterState": null,
+      "guidePresenceState": null,
+      "reviewModeEnabled": true,
+      "homePresentationMode": null,
+      "knowledgeDisclosureLevel": null,
+      "greetingStage": null,
+      "greetingAssetStatus": null,
+      "screenshotCaptured": true,
+      "screenshotFailure": null,
+      "uiReview": {
+        "taxonomyStatus": "CANDIDATE",
+        "humanConfirmed": false,
+        "assetId": "CITY_AREA_MAP_01",
+        "mapGridCount": 8
+      },
+      "criticalTouchTargetsBelow44": [],
+      "consoleErrors": [],
+      "pageErrors": []
+    },
+    {
+      "id": "area-candidate-area-02",
+      "file": "03-area-02.png",
+      "route": "https://clairesun6767.github.io/ai-lover-ui-preview/game.html?review=1&spatial=1&spatialSection=areas",
+      "surfaceId": "area-candidate-area-02",
+      "surfaceName": "area candidate area 02",
+      "entryAction": "依腳本互動進入此畫面狀態",
+      "fixtureRequired": false,
+      "screenshotRequired": true,
+      "variantGroup": null,
+      "reasonIfExcluded": null,
+      "expectedVisible": [],
+      "expectedHidden": [],
+      "mode": "REVIEW_ONLY",
+      "fixture": "PREVIEW_RELATIONSHIP_FIXTURE",
+      "relationshipState": null,
+      "presenceState": null,
+      "worldTime": "DAY 1 · MORNING",
+      "areaId": "AREA-02",
+      "mapVariant": null,
+      "voicePlaybackFixture": null,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "setupActions": [
+        "COMPLETE_FIRST_RUN",
+        "DEFER_INCOMING_MESSAGE"
+      ],
+      "status": "PASS",
+      "reason": null,
+      "mediaStatus": null,
+      "requiredPresence": false,
+      "guideCharacterState": null,
+      "guidePresenceState": null,
+      "reviewModeEnabled": true,
+      "homePresentationMode": null,
+      "knowledgeDisclosureLevel": null,
+      "greetingStage": null,
+      "greetingAssetStatus": null,
+      "screenshotCaptured": true,
+      "screenshotFailure": null,
+      "uiReview": {
+        "taxonomyStatus": "CANDIDATE",
+        "humanConfirmed": false,
+        "assetId": "CITY_AREA_MAP_02",
+        "mapGridCount": 8
+      },
+      "criticalTouchTargetsBelow44": [],
+      "consoleErrors": [],
+      "pageErrors": []
+    },
+    {
+      "id": "area-candidate-area-03",
+      "file": "04-area-03.png",
+      "route": "https://clairesun6767.github.io/ai-lover-ui-preview/game.html?review=1&spatial=1&spatialSection=areas",
+      "surfaceId": "area-candidate-area-03",
+      "surfaceName": "area candidate area 03",
+      "entryAction": "依腳本互動進入此畫面狀態",
+      "fixtureRequired": false,
+      "screenshotRequired": true,
+      "variantGroup": null,
+      "reasonIfExcluded": null,
+      "expectedVisible": [],
+      "expectedHidden": [],
+      "mode": "REVIEW_ONLY",
+      "fixture": "PREVIEW_RELATIONSHIP_FIXTURE",
+      "relationshipState": null,
+      "presenceState": null,
+      "worldTime": "DAY 1 · MORNING",
+      "areaId": "AREA-03",
+      "mapVariant": null,
+      "voicePlaybackFixture": null,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "setupActions": [
+        "COMPLETE_FIRST_RUN",
+        "DEFER_INCOMING_MESSAGE"
+      ],
+      "status": "PASS",
+      "reason": null,
+      "mediaStatus": null,
+      "requiredPresence": false,
+      "guideCharacterState": null,
+      "guidePresenceState": null,
+      "reviewModeEnabled": true,
+      "homePresentationMode": null,
+      "knowledgeDisclosureLevel": null,
+      "greetingStage": null,
+      "greetingAssetStatus": null,
+      "screenshotCaptured": true,
+      "screenshotFailure": null,
+      "uiReview": {
+        "taxonomyStatus": "CANDIDATE",
+        "humanConfirmed": false,
+        "assetId": "CITY_AREA_MAP_03",
+        "mapGridCount": 8
+      },
+      "criticalTouchTargetsBelow44": [],
+      "consoleErrors": [],
+      "pageErrors": []
+    },
+    {
+      "id": "area-candidate-area-04",
+      "file": "05-area-04.png",
+      "route": "https://clairesun6767.github.io/ai-lover-ui-preview/game.html?review=1&spatial=1&spatialSection=areas",
+      "surfaceId": "area-candidate-area-04",
+      "surfaceName": "area candidate area 04",
+      "entryAction": "依腳本互動進入此畫面狀態",
+      "fixtureRequired": false,
+      "screenshotRequired": true,
+      "variantGroup": null,
+      "reasonIfExcluded": null,
+      "expectedVisible": [],
+      "expectedHidden": [],
+      "mode": "REVIEW_ONLY",
+      "fixture": "PREVIEW_RELATIONSHIP_FIXTURE",
+      "relationshipState": null,
+      "presenceState": null,
+      "worldTime": "DAY 1 · MORNING",
+      "areaId": "AREA-04",
+      "mapVariant": null,
+      "voicePlaybackFixture": null,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "setupActions": [
+        "COMPLETE_FIRST_RUN",
+        "DEFER_INCOMING_MESSAGE"
+      ],
+      "status": "PASS",
+      "reason": null,
+      "mediaStatus": null,
+      "requiredPresence": false,
+      "guideCharacterState": null,
+      "guidePresenceState": null,
+      "reviewModeEnabled": true,
+      "homePresentationMode": null,
+      "knowledgeDisclosureLevel": null,
+      "greetingStage": null,
+      "greetingAssetStatus": null,
+      "screenshotCaptured": true,
+      "screenshotFailure": null,
+      "uiReview": {
+        "taxonomyStatus": "CANDIDATE",
+        "humanConfirmed": false,
+        "assetId": "CITY_AREA_MAP_04",
+        "mapGridCount": 8
+      },
+      "criticalTouchTargetsBelow44": [],
+      "consoleErrors": [],
+      "pageErrors": []
+    },
+    {
+      "id": "area-candidate-area-05",
+      "file": "06-area-05.png",
+      "route": "https://clairesun6767.github.io/ai-lover-ui-preview/game.html?review=1&spatial=1&spatialSection=areas",
+      "surfaceId": "area-candidate-area-05",
+      "surfaceName": "area candidate area 05",
+      "entryAction": "依腳本互動進入此畫面狀態",
+      "fixtureRequired": false,
+      "screenshotRequired": true,
+      "variantGroup": null,
+      "reasonIfExcluded": null,
+      "expectedVisible": [],
+      "expectedHidden": [],
+      "mode": "REVIEW_ONLY",
+      "fixture": "PREVIEW_RELATIONSHIP_FIXTURE",
+      "relationshipState": null,
+      "presenceState": null,
+      "worldTime": "DAY 1 · MORNING",
+      "areaId": "AREA-05",
+      "mapVariant": null,
+      "voicePlaybackFixture": null,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "setupActions": [
+        "COMPLETE_FIRST_RUN",
+        "DEFER_INCOMING_MESSAGE"
+      ],
+      "status": "PASS",
+      "reason": null,
+      "mediaStatus": null,
+      "requiredPresence": false,
+      "guideCharacterState": null,
+      "guidePresenceState": null,
+      "reviewModeEnabled": true,
+      "homePresentationMode": null,
+      "knowledgeDisclosureLevel": null,
+      "greetingStage": null,
+      "greetingAssetStatus": null,
+      "screenshotCaptured": true,
+      "screenshotFailure": null,
+      "uiReview": {
+        "taxonomyStatus": "CANDIDATE",
+        "humanConfirmed": false,
+        "assetId": "CITY_AREA_MAP_05",
+        "mapGridCount": 8
+      },
+      "criticalTouchTargetsBelow44": [],
+      "consoleErrors": [],
+      "pageErrors": []
+    },
+    {
+      "id": "area-candidate-area-06",
+      "file": "07-area-06.png",
+      "route": "https://clairesun6767.github.io/ai-lover-ui-preview/game.html?review=1&spatial=1&spatialSection=areas",
+      "surfaceId": "area-candidate-area-06",
+      "surfaceName": "area candidate area 06",
+      "entryAction": "依腳本互動進入此畫面狀態",
+      "fixtureRequired": false,
+      "screenshotRequired": true,
+      "variantGroup": null,
+      "reasonIfExcluded": null,
+      "expectedVisible": [],
+      "expectedHidden": [],
+      "mode": "REVIEW_ONLY",
+      "fixture": "PREVIEW_RELATIONSHIP_FIXTURE",
+      "relationshipState": null,
+      "presenceState": null,
+      "worldTime": "DAY 1 · MORNING",
+      "areaId": "AREA-06",
+      "mapVariant": null,
+      "voicePlaybackFixture": null,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "setupActions": [
+        "COMPLETE_FIRST_RUN",
+        "DEFER_INCOMING_MESSAGE"
+      ],
+      "status": "PASS",
+      "reason": null,
+      "mediaStatus": null,
+      "requiredPresence": false,
+      "guideCharacterState": null,
+      "guidePresenceState": null,
+      "reviewModeEnabled": true,
+      "homePresentationMode": null,
+      "knowledgeDisclosureLevel": null,
+      "greetingStage": null,
+      "greetingAssetStatus": null,
+      "screenshotCaptured": true,
+      "screenshotFailure": null,
+      "uiReview": {
+        "taxonomyStatus": "CANDIDATE",
+        "humanConfirmed": false,
+        "assetId": "CITY_AREA_MAP_06",
+        "mapGridCount": 8
+      },
+      "criticalTouchTargetsBelow44": [],
+      "consoleErrors": [],
+      "pageErrors": []
+    },
+    {
+      "id": "area-candidate-area-07",
+      "file": "08-area-07.png",
+      "route": "https://clairesun6767.github.io/ai-lover-ui-preview/game.html?review=1&spatial=1&spatialSection=areas",
+      "surfaceId": "area-candidate-area-07",
+      "surfaceName": "area candidate area 07",
+      "entryAction": "依腳本互動進入此畫面狀態",
+      "fixtureRequired": false,
+      "screenshotRequired": true,
+      "variantGroup": null,
+      "reasonIfExcluded": null,
+      "expectedVisible": [],
+      "expectedHidden": [],
+      "mode": "REVIEW_ONLY",
+      "fixture": "PREVIEW_RELATIONSHIP_FIXTURE",
+      "relationshipState": null,
+      "presenceState": null,
+      "worldTime": "DAY 1 · MORNING",
+      "areaId": "AREA-07",
+      "mapVariant": null,
+      "voicePlaybackFixture": null,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "setupActions": [
+        "COMPLETE_FIRST_RUN",
+        "DEFER_INCOMING_MESSAGE"
+      ],
+      "status": "PASS",
+      "reason": null,
+      "mediaStatus": null,
+      "requiredPresence": false,
+      "guideCharacterState": null,
+      "guidePresenceState": null,
+      "reviewModeEnabled": true,
+      "homePresentationMode": null,
+      "knowledgeDisclosureLevel": null,
+      "greetingStage": null,
+      "greetingAssetStatus": null,
+      "screenshotCaptured": true,
+      "screenshotFailure": null,
+      "uiReview": {
+        "taxonomyStatus": "CANDIDATE",
+        "humanConfirmed": false,
+        "assetId": "CITY_AREA_MAP_07",
+        "mapGridCount": 8
+      },
+      "criticalTouchTargetsBelow44": [],
+      "consoleErrors": [],
+      "pageErrors": []
+    },
+    {
+      "id": "area-candidate-area-08",
+      "file": "09-area-08.png",
+      "route": "https://clairesun6767.github.io/ai-lover-ui-preview/game.html?review=1&spatial=1&spatialSection=areas",
+      "surfaceId": "area-candidate-area-08",
+      "surfaceName": "area candidate area 08",
+      "entryAction": "依腳本互動進入此畫面狀態",
+      "fixtureRequired": false,
+      "screenshotRequired": true,
+      "variantGroup": null,
+      "reasonIfExcluded": null,
+      "expectedVisible": [],
+      "expectedHidden": [],
+      "mode": "REVIEW_ONLY",
+      "fixture": "PREVIEW_RELATIONSHIP_FIXTURE",
+      "relationshipState": null,
+      "presenceState": null,
+      "worldTime": "DAY 1 · MORNING",
+      "areaId": "AREA-08",
+      "mapVariant": null,
+      "voicePlaybackFixture": null,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "setupActions": [
+        "COMPLETE_FIRST_RUN",
+        "DEFER_INCOMING_MESSAGE"
+      ],
+      "status": "PASS",
+      "reason": null,
+      "mediaStatus": null,
+      "requiredPresence": false,
+      "guideCharacterState": null,
+      "guidePresenceState": null,
+      "reviewModeEnabled": true,
+      "homePresentationMode": null,
+      "knowledgeDisclosureLevel": null,
+      "greetingStage": null,
+      "greetingAssetStatus": null,
+      "screenshotCaptured": true,
+      "screenshotFailure": null,
+      "uiReview": {
+        "taxonomyStatus": "CANDIDATE",
+        "humanConfirmed": false,
+        "assetId": "CITY_AREA_MAP_08",
+        "mapGridCount": 8
+      },
+      "criticalTouchTargetsBelow44": [],
+      "consoleErrors": [],
+      "pageErrors": []
+    },
+    {
+      "id": "poi-candidate-overview",
+      "file": "10-poi-candidate-overview.png",
+      "route": "https://clairesun6767.github.io/ai-lover-ui-preview/game.html?review=1&spatial=1&spatialSection=pois",
+      "surfaceId": "poi-candidate-overview",
+      "surfaceName": "poi candidate overview",
+      "entryAction": "依腳本互動進入此畫面狀態",
+      "fixtureRequired": false,
+      "screenshotRequired": true,
+      "variantGroup": null,
+      "reasonIfExcluded": null,
+      "expectedVisible": [],
+      "expectedHidden": [],
+      "mode": "REVIEW_ONLY",
+      "fixture": "PREVIEW_RELATIONSHIP_FIXTURE",
+      "relationshipState": null,
+      "presenceState": null,
+      "worldTime": "DAY 1 · MORNING",
+      "areaId": null,
+      "mapVariant": null,
+      "voicePlaybackFixture": null,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "setupActions": [
+        "COMPLETE_FIRST_RUN",
+        "DEFER_INCOMING_MESSAGE"
+      ],
+      "status": "PASS",
+      "reason": null,
+      "mediaStatus": null,
+      "requiredPresence": false,
+      "guideCharacterState": null,
+      "guidePresenceState": null,
+      "reviewModeEnabled": true,
+      "homePresentationMode": null,
+      "knowledgeDisclosureLevel": null,
+      "greetingStage": null,
+      "greetingAssetStatus": null,
+      "screenshotCaptured": true,
+      "screenshotFailure": null,
+      "uiReview": {
+        "poiTotal": 17,
+        "candidateCount": 10,
+        "semanticGapPoi": "BEACH",
+        "humanConfirmed": 0
+      },
+      "criticalTouchTargetsBelow44": [],
+      "consoleErrors": [],
+      "pageErrors": []
+    },
+    {
+      "id": "poi-hospital-candidate",
+      "file": "11-poi-hospital-candidate.png",
+      "route": "https://clairesun6767.github.io/ai-lover-ui-preview/game.html?review=1&spatial=1&spatialSection=pois",
+      "surfaceId": "poi-hospital-candidate",
+      "surfaceName": "poi hospital candidate",
+      "entryAction": "依腳本互動進入此畫面狀態",
+      "fixtureRequired": false,
+      "screenshotRequired": true,
+      "variantGroup": null,
+      "reasonIfExcluded": null,
+      "expectedVisible": [],
+      "expectedHidden": [],
+      "mode": "REVIEW_ONLY",
+      "fixture": "PREVIEW_RELATIONSHIP_FIXTURE",
+      "relationshipState": null,
+      "presenceState": null,
+      "worldTime": "DAY 1 · MORNING",
+      "areaId": null,
+      "mapVariant": null,
+      "voicePlaybackFixture": null,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "setupActions": [
+        "COMPLETE_FIRST_RUN",
+        "DEFER_INCOMING_MESSAGE"
+      ],
+      "status": "PASS",
+      "reason": null,
+      "mediaStatus": null,
+      "requiredPresence": false,
+      "guideCharacterState": null,
+      "guidePresenceState": null,
+      "reviewModeEnabled": true,
+      "homePresentationMode": null,
+      "knowledgeDisclosureLevel": null,
+      "greetingStage": null,
+      "greetingAssetStatus": null,
+      "screenshotCaptured": true,
+      "screenshotFailure": null,
+      "uiReview": {
+        "poiId": "HOSPITAL",
+        "expectedArea": "AREA-03",
+        "status": "CANDIDATE",
+        "humanConfirmed": false,
+        "mapId": "AREA-03"
+      },
+      "criticalTouchTargetsBelow44": [],
+      "consoleErrors": [],
+      "pageErrors": []
+    },
+    {
+      "id": "poi-moonlight-harbor-candidate",
+      "file": "12-poi-moonlight-harbor-candidate.png",
+      "route": "https://clairesun6767.github.io/ai-lover-ui-preview/game.html?review=1&spatial=1&spatialSection=pois",
+      "surfaceId": "poi-moonlight-harbor-candidate",
+      "surfaceName": "poi moonlight harbor candidate",
+      "entryAction": "依腳本互動進入此畫面狀態",
+      "fixtureRequired": false,
+      "screenshotRequired": true,
+      "variantGroup": null,
+      "reasonIfExcluded": null,
+      "expectedVisible": [],
+      "expectedHidden": [],
+      "mode": "REVIEW_ONLY",
+      "fixture": "PREVIEW_RELATIONSHIP_FIXTURE",
+      "relationshipState": null,
+      "presenceState": null,
+      "worldTime": "DAY 1 · MORNING",
+      "areaId": null,
+      "mapVariant": null,
+      "voicePlaybackFixture": null,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "setupActions": [
+        "COMPLETE_FIRST_RUN",
+        "DEFER_INCOMING_MESSAGE"
+      ],
+      "status": "PASS",
+      "reason": null,
+      "mediaStatus": null,
+      "requiredPresence": false,
+      "guideCharacterState": null,
+      "guidePresenceState": null,
+      "reviewModeEnabled": true,
+      "homePresentationMode": null,
+      "knowledgeDisclosureLevel": null,
+      "greetingStage": null,
+      "greetingAssetStatus": null,
+      "screenshotCaptured": true,
+      "screenshotFailure": null,
+      "uiReview": {
+        "poiId": "NIGHT_HARBOR",
+        "expectedArea": "AREA-07",
+        "status": "CANDIDATE",
+        "humanConfirmed": false,
+        "mapId": "AREA-07"
+      },
+      "criticalTouchTargetsBelow44": [],
+      "consoleErrors": [],
+      "pageErrors": []
+    },
+    {
+      "id": "poi-moon-bay-beach-gap",
+      "file": "13-poi-moon-bay-beach-semantic-gap.png",
+      "route": "https://clairesun6767.github.io/ai-lover-ui-preview/game.html?review=1&spatial=1&spatialSection=pois",
+      "surfaceId": "poi-moon-bay-beach-gap",
+      "surfaceName": "poi moon bay beach gap",
+      "entryAction": "依腳本互動進入此畫面狀態",
+      "fixtureRequired": false,
+      "screenshotRequired": true,
+      "variantGroup": null,
+      "reasonIfExcluded": null,
+      "expectedVisible": [],
+      "expectedHidden": [],
+      "mode": "REVIEW_ONLY",
+      "fixture": "PREVIEW_RELATIONSHIP_FIXTURE",
+      "relationshipState": null,
+      "presenceState": null,
+      "worldTime": "DAY 1 · MORNING",
+      "areaId": null,
+      "mapVariant": null,
+      "voicePlaybackFixture": null,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "setupActions": [
+        "COMPLETE_FIRST_RUN",
+        "DEFER_INCOMING_MESSAGE"
+      ],
+      "status": "PASS",
+      "reason": null,
+      "mediaStatus": null,
+      "requiredPresence": false,
+      "guideCharacterState": null,
+      "guidePresenceState": null,
+      "reviewModeEnabled": true,
+      "homePresentationMode": null,
+      "knowledgeDisclosureLevel": null,
+      "greetingStage": null,
+      "greetingAssetStatus": null,
+      "screenshotCaptured": true,
+      "screenshotFailure": null,
+      "uiReview": {
+        "poiId": "BEACH",
+        "expectedArea": "AREA-07",
+        "status": "CANDIDATE_WITH_ART_SEMANTIC_GAP",
+        "humanConfirmed": false,
+        "mapId": "AREA-07"
+      },
+      "criticalTouchTargetsBelow44": [],
+      "consoleErrors": [],
+      "pageErrors": []
+    },
+    {
+      "id": "area-candidate-area-02",
+      "file": "14-area-02-assignment.png",
+      "route": "https://clairesun6767.github.io/ai-lover-ui-preview/game.html?review=1&spatial=1&spatialSection=areas",
+      "surfaceId": "area-candidate-area-02",
+      "surfaceName": "area candidate area 02",
+      "entryAction": "依腳本互動進入此畫面狀態",
+      "fixtureRequired": false,
+      "screenshotRequired": true,
+      "variantGroup": null,
+      "reasonIfExcluded": null,
+      "expectedVisible": [],
+      "expectedHidden": [],
+      "mode": "REVIEW_ONLY",
+      "fixture": "PREVIEW_RELATIONSHIP_FIXTURE",
+      "relationshipState": null,
+      "presenceState": null,
+      "worldTime": "DAY 1 · MORNING",
+      "areaId": "AREA-02",
+      "mapVariant": null,
+      "voicePlaybackFixture": null,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "setupActions": [
+        "COMPLETE_FIRST_RUN",
+        "DEFER_INCOMING_MESSAGE"
+      ],
+      "status": "PASS",
+      "reason": null,
+      "mediaStatus": null,
+      "requiredPresence": false,
+      "guideCharacterState": null,
+      "guidePresenceState": null,
+      "reviewModeEnabled": true,
+      "homePresentationMode": null,
+      "knowledgeDisclosureLevel": null,
+      "greetingStage": null,
+      "greetingAssetStatus": null,
+      "screenshotCaptured": true,
+      "screenshotFailure": null,
+      "uiReview": {
+        "taxonomyStatus": "CANDIDATE",
+        "humanConfirmed": false,
+        "assetId": "CITY_AREA_MAP_02",
+        "mapGridCount": 8
+      },
+      "criticalTouchTargetsBelow44": [],
+      "consoleErrors": [],
+      "pageErrors": []
+    },
+    {
+      "id": "area-candidate-area-05",
+      "file": "15-area-05-assignment.png",
+      "route": "https://clairesun6767.github.io/ai-lover-ui-preview/game.html?review=1&spatial=1&spatialSection=areas",
+      "surfaceId": "area-candidate-area-05",
+      "surfaceName": "area candidate area 05",
+      "entryAction": "依腳本互動進入此畫面狀態",
+      "fixtureRequired": false,
+      "screenshotRequired": true,
+      "variantGroup": null,
+      "reasonIfExcluded": null,
+      "expectedVisible": [],
+      "expectedHidden": [],
+      "mode": "REVIEW_ONLY",
+      "fixture": "PREVIEW_RELATIONSHIP_FIXTURE",
+      "relationshipState": null,
+      "presenceState": null,
+      "worldTime": "DAY 1 · MORNING",
+      "areaId": "AREA-05",
+      "mapVariant": null,
+      "voicePlaybackFixture": null,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "setupActions": [
+        "COMPLETE_FIRST_RUN",
+        "DEFER_INCOMING_MESSAGE"
+      ],
+      "status": "PASS",
+      "reason": null,
+      "mediaStatus": null,
+      "requiredPresence": false,
+      "guideCharacterState": null,
+      "guidePresenceState": null,
+      "reviewModeEnabled": true,
+      "homePresentationMode": null,
+      "knowledgeDisclosureLevel": null,
+      "greetingStage": null,
+      "greetingAssetStatus": null,
+      "screenshotCaptured": true,
+      "screenshotFailure": null,
+      "uiReview": {
+        "taxonomyStatus": "CANDIDATE",
+        "humanConfirmed": false,
+        "assetId": "CITY_AREA_MAP_05",
+        "mapGridCount": 8
+      },
+      "criticalTouchTargetsBelow44": [],
+      "consoleErrors": [],
+      "pageErrors": []
+    },
+    {
+      "id": "city-bounds-390x844",
+      "file": "16-city-bounds-390x844.png",
+      "route": "https://clairesun6767.github.io/ai-lover-ui-preview/game.html?review=1&spatial=1&spatialSection=city",
+      "surfaceId": "city-bounds-390x844",
+      "surfaceName": "city bounds 390x844",
+      "entryAction": "依腳本互動進入此畫面狀態",
+      "fixtureRequired": false,
+      "screenshotRequired": true,
+      "variantGroup": null,
+      "reasonIfExcluded": null,
+      "expectedVisible": [],
+      "expectedHidden": [],
+      "mode": "REVIEW_ONLY",
+      "fixture": "PREVIEW_RELATIONSHIP_FIXTURE",
+      "relationshipState": null,
+      "presenceState": null,
+      "worldTime": "DAY 1 · MORNING",
+      "areaId": null,
+      "mapVariant": null,
+      "voicePlaybackFixture": null,
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "setupActions": [
+        "COMPLETE_FIRST_RUN",
+        "DEFER_INCOMING_MESSAGE"
+      ],
+      "status": "PASS",
+      "reason": null,
+      "mediaStatus": null,
+      "requiredPresence": false,
+      "guideCharacterState": null,
+      "guidePresenceState": null,
+      "reviewModeEnabled": true,
+      "homePresentationMode": null,
+      "knowledgeDisclosureLevel": null,
+      "greetingStage": null,
+      "greetingAssetStatus": null,
+      "screenshotCaptured": true,
+      "screenshotFailure": null,
+      "markerBounds": {
+        "horizontalOverflow": 0,
+        "offscreenMarkerControls": 0
+      },
+      "criticalTouchTargetsBelow44": [],
+      "consoleErrors": [],
+      "pageErrors": []
+    },
+    {
+      "id": "city-bounds-360x800",
+      "file": "17-city-bounds-360x800.png",
+      "route": "https://clairesun6767.github.io/ai-lover-ui-preview/game.html?review=1&spatial=1&spatialSection=city",
+      "surfaceId": "city-bounds-360x800",
+      "surfaceName": "city bounds 360x800",
+      "entryAction": "依腳本互動進入此畫面狀態",
+      "fixtureRequired": false,
+      "screenshotRequired": true,
+      "variantGroup": null,
+      "reasonIfExcluded": null,
+      "expectedVisible": [],
+      "expectedHidden": [],
+      "mode": "REVIEW_ONLY",
+      "fixture": "PREVIEW_RELATIONSHIP_FIXTURE",
+      "relationshipState": null,
+      "presenceState": null,
+      "worldTime": "DAY 1 · MORNING",
+      "areaId": null,
+      "mapVariant": null,
+      "voicePlaybackFixture": null,
+      "viewport": {
+        "width": 360,
+        "height": 800
+      },
+      "setupActions": [
+        "COMPLETE_FIRST_RUN",
+        "DEFER_INCOMING_MESSAGE"
+      ],
+      "status": "PASS",
+      "reason": null,
+      "mediaStatus": null,
+      "requiredPresence": false,
+      "guideCharacterState": null,
+      "guidePresenceState": null,
+      "reviewModeEnabled": true,
+      "homePresentationMode": null,
+      "knowledgeDisclosureLevel": null,
+      "greetingStage": null,
+      "greetingAssetStatus": null,
+      "screenshotCaptured": true,
+      "screenshotFailure": null,
+      "markerBounds": {
+        "horizontalOverflow": 0,
+        "offscreenMarkerControls": 0
+      },
+      "criticalTouchTargetsBelow44": [],
+      "consoleErrors": [],
+      "pageErrors": []
+    },
+    {
+      "id": "city-bounds-430x932",
+      "file": "18-city-bounds-430x932.png",
+      "route": "https://clairesun6767.github.io/ai-lover-ui-preview/game.html?review=1&spatial=1&spatialSection=city",
+      "surfaceId": "city-bounds-430x932",
+      "surfaceName": "city bounds 430x932",
+      "entryAction": "依腳本互動進入此畫面狀態",
+      "fixtureRequired": false,
+      "screenshotRequired": true,
+      "variantGroup": null,
+      "reasonIfExcluded": null,
+      "expectedVisible": [],
+      "expectedHidden": [],
+      "mode": "REVIEW_ONLY",
+      "fixture": "PREVIEW_RELATIONSHIP_FIXTURE",
+      "relationshipState": null,
+      "presenceState": null,
+      "worldTime": "DAY 1 · MORNING",
+      "areaId": null,
+      "mapVariant": null,
+      "voicePlaybackFixture": null,
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "setupActions": [
+        "COMPLETE_FIRST_RUN",
+        "DEFER_INCOMING_MESSAGE"
+      ],
+      "status": "PASS",
+      "reason": null,
+      "mediaStatus": null,
+      "requiredPresence": false,
+      "guideCharacterState": null,
+      "guidePresenceState": null,
+      "reviewModeEnabled": true,
+      "homePresentationMode": null,
+      "knowledgeDisclosureLevel": null,
+      "greetingStage": null,
+      "greetingAssetStatus": null,
+      "screenshotCaptured": true,
+      "screenshotFailure": null,
+      "markerBounds": {
+        "horizontalOverflow": 0,
+        "offscreenMarkerControls": 0
+      },
+      "criticalTouchTargetsBelow44": [],
+      "consoleErrors": [],
+      "pageErrors": []
+    }
+  ],
+  "navigationSmoke": {
+    "status": "PASS",
+    "steps": [
+      {
+        "id": "CITY_TO_AREA",
+        "status": "PASS"
+      },
+      {
+        "id": "AREA_BACK_TO_CITY",
+        "status": "PASS"
+      },
+      {
+        "id": "AREA_TO_ENCOUNTER",
+        "status": "PASS"
+      },
+      {
+        "id": "ENCOUNTER_BACK_TO_AREA",
+        "status": "PASS"
+      },
+      {
+        "id": "AREA_BACK_TO_CITY_AFTER_ENCOUNTER",
+        "status": "PASS"
+      }
+    ],
+    "reason": null
+  },
+  "relationshipGateSmoke": {
+    "status": "PASS",
+    "checks": {
+      "a01IsContact": true,
+      "b01NotContact": true,
+      "b25NotContact": true,
+      "a01ChatAvailable": true,
+      "b01PublicProfileOnly": true,
+      "b01StillNotContact": true,
+      "b01UnknownIdentityProtected": true,
+      "b25PublicProfileOnly": true,
+      "b25StillNotContact": true,
+      "a01ConnectedChat": true
+    },
+    "reason": null
+  },
+  "momentsSmoke": {
+    "status": "PASS",
+    "checks": {
+      "likeBoundToTargetPost": true,
+      "otherPostsUnaffected": true,
+      "commentCollapsedByDefault": true,
+      "commentCanExpand": true,
+      "commentBoundToTargetPost": true,
+      "commentNotCopiedToOtherPosts": true
+    },
+    "reason": null
+  },
+  "timeToCitySmoke": {
+    "status": "PASS",
+    "steps": [
+      {
+        "id": "ACCEPTED",
+        "status": "PASS"
+      },
+      {
+        "id": "EN_ROUTE",
+        "status": "PASS"
+      },
+      {
+        "id": "CITY_DESTINATION_POI",
+        "status": "PASS",
+        "poi": "PHARMACY"
+      }
+    ],
+    "reason": null
+  },
+  "onboardingSmoke": {
+    "status": "PARTIAL",
+    "checks": {
+      "homeUsesEncounterKeyVisual": true,
+      "guideInLinkAfterFirstRun": true,
+      "guideIsSystemType": true,
+      "guideExcludedFromActiveCharacterPool": true,
+      "guideFaqToneAndFallback": true,
+      "guideDoesNotInventUnknownLocation": true,
+      "guideNoRomanceProgression": true,
+      "greetingVideoReady": false
+    },
+    "reason": null
+  },
+  "contextNoticeSmoke": {
+    "status": "PASS",
+    "hitTarget": {
+      "width": 44,
+      "height": 44
+    },
+    "visualGlyph": {
+      "width": 24,
+      "height": 24
+    },
+    "reason": null
+  },
+  "mediaAbortClassification": {
+    "status": "PASS",
+    "counts": {
+      "EXPECTED_MEDIA_ABORT": 18,
+      "MEDIA_LOAD_FAIL": 0,
+      "UNCLASSIFIED_MEDIA_ABORT": 0,
+      "VIDEO_REQUEST_FAILED_AFTER_READY": 0,
+      "VIDEO_REQUEST_FAILED": 0
+    },
+    "requiredPresenceCaptures": [],
+    "requests": [
+      {
+        "screen": "area-candidate-area-01",
+        "url": "https://clairesun6767.github.io/ai-lover-ui-preview/assets/system/home/X01_WALK_01.mp4",
+        "error": "net::ERR_ABORTED",
+        "classification": "EXPECTED_MEDIA_ABORT"
+      },
+      {
+        "screen": "area-candidate-area-02",
+        "url": "https://clairesun6767.github.io/ai-lover-ui-preview/assets/system/home/X01_WALK_01.mp4",
+        "error": "net::ERR_ABORTED",
+        "classification": "EXPECTED_MEDIA_ABORT"
+      },
+      {
+        "screen": "area-candidate-area-03",
+        "url": "https://clairesun6767.github.io/ai-lover-ui-preview/assets/system/home/X01_WALK_01.mp4",
+        "error": "net::ERR_ABORTED",
+        "classification": "EXPECTED_MEDIA_ABORT"
+      },
+      {
+        "screen": "area-candidate-area-04",
+        "url": "https://clairesun6767.github.io/ai-lover-ui-preview/assets/system/home/X01_WALK_01.mp4",
+        "error": "net::ERR_ABORTED",
+        "classification": "EXPECTED_MEDIA_ABORT"
+      },
+      {
+        "screen": "area-candidate-area-05",
+        "url": "https://clairesun6767.github.io/ai-lover-ui-preview/assets/system/home/X01_WALK_01.mp4",
+        "error": "net::ERR_ABORTED",
+        "classification": "EXPECTED_MEDIA_ABORT"
+      },
+      {
+        "screen": "area-candidate-area-06",
+        "url": "https://clairesun6767.github.io/ai-lover-ui-preview/assets/system/home/X01_WALK_01.mp4",
+        "error": "net::ERR_ABORTED",
+        "classification": "EXPECTED_MEDIA_ABORT"
+      },
+      {
+        "screen": "area-candidate-area-07",
+        "url": "https://clairesun6767.github.io/ai-lover-ui-preview/assets/system/home/X01_WALK_01.mp4",
+        "error": "net::ERR_ABORTED",
+        "classification": "EXPECTED_MEDIA_ABORT"
+      },
+      {
+        "screen": "area-candidate-area-08",
+        "url": "https://clairesun6767.github.io/ai-lover-ui-preview/assets/system/home/X01_WALK_01.mp4",
+        "error": "net::ERR_ABORTED",
+        "classification": "EXPECTED_MEDIA_ABORT"
+      },
+      {
+        "screen": "poi-candidate-overview",
+        "url": "https://clairesun6767.github.io/ai-lover-ui-preview/assets/system/home/X01_WALK_01.mp4",
+        "error": "net::ERR_ABORTED",
+        "classification": "EXPECTED_MEDIA_ABORT"
+      },
+      {
+        "screen": "poi-hospital-candidate",
+        "url": "https://clairesun6767.github.io/ai-lover-ui-preview/assets/system/home/X01_WALK_01.mp4",
+        "error": "net::ERR_ABORTED",
+        "classification": "EXPECTED_MEDIA_ABORT"
+      },
+      {
+        "screen": "poi-moonlight-harbor-candidate",
+        "url": "https://clairesun6767.github.io/ai-lover-ui-preview/assets/system/home/X01_WALK_01.mp4",
+        "error": "net::ERR_ABORTED",
+        "classification": "EXPECTED_MEDIA_ABORT"
+      },
+      {
+        "screen": "poi-moonlight-harbor-candidate",
+        "url": "https://clairesun6767.github.io/ai-lover-ui-preview/assets/system/home/X01_WALK_01.mp4",
+        "error": "net::ERR_ABORTED",
+        "classification": "EXPECTED_MEDIA_ABORT"
+      },
+      {
+        "screen": "poi-moon-bay-beach-gap",
+        "url": "https://clairesun6767.github.io/ai-lover-ui-preview/assets/system/home/X01_WALK_01.mp4",
+        "error": "net::ERR_ABORTED",
+        "classification": "EXPECTED_MEDIA_ABORT"
+      },
+      {
+        "screen": "area-candidate-area-02",
+        "url": "https://clairesun6767.github.io/ai-lover-ui-preview/assets/system/home/X01_WALK_01.mp4",
+        "error": "net::ERR_ABORTED",
+        "classification": "EXPECTED_MEDIA_ABORT"
+      },
+      {
+        "screen": "area-candidate-area-05",
+        "url": "https://clairesun6767.github.io/ai-lover-ui-preview/assets/system/home/X01_WALK_01.mp4",
+        "error": "net::ERR_ABORTED",
+        "classification": "EXPECTED_MEDIA_ABORT"
+      },
+      {
+        "screen": "city-bounds-390x844",
+        "url": "https://clairesun6767.github.io/ai-lover-ui-preview/assets/system/home/X01_WALK_01.mp4",
+        "error": "net::ERR_ABORTED",
+        "classification": "EXPECTED_MEDIA_ABORT"
+      },
+      {
+        "screen": "city-bounds-360x800",
+        "url": "https://clairesun6767.github.io/ai-lover-ui-preview/assets/system/home/X01_WALK_01.mp4",
+        "error": "net::ERR_ABORTED",
+        "classification": "EXPECTED_MEDIA_ABORT"
+      },
+      {
+        "screen": "city-bounds-430x932",
+        "url": "https://clairesun6767.github.io/ai-lover-ui-preview/assets/system/home/X01_WALK_01.mp4",
+        "error": "net::ERR_ABORTED",
+        "classification": "EXPECTED_MEDIA_ABORT"
+      }
+    ]
+  },
+  "newMediaValidation": null,
+  "spatialReview": {
+    "geometryVersion": "CITY_GEOMETRY_V1",
+    "coordinateSpace": "NORMALIZED_MAP_IMAGE",
+    "transform": {
+      "object_fit": "cover",
+      "object_position": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "mapImageDimensions": {
+      "width": 941,
+      "height": 1672
+    },
+    "runtimeMaps": {
+      "CENTRAL": "AREA-03",
+      "RESIDENTIAL": "AREA-08",
+      "COMMERCIAL": "AREA-06",
+      "ACADEMIC": "AREA-04",
+      "RIVERSIDE": "AREA-01",
+      "SEASIDE": "AREA-07"
+    },
+    "candidateAreaMapByLegacyDistrict": {
+      "CENTRAL": "AREA-01",
+      "RESIDENTIAL": "AREA-02",
+      "COMMERCIAL": "AREA-03",
+      "ACADEMIC": "AREA-04",
+      "RIVERSIDE": "AREA-07",
+      "SEASIDE": "AREA-07"
+    },
+    "areaTaxonomy": [
+      {
+        "area_id": "AREA-01",
+        "player_facing_name": "生活街區",
+        "semantic": [
+          "DAILY_LIFE",
+          "CENTRAL_LIVING"
+        ],
+        "visual_identity": [
+          "中央生活圈",
+          "公園",
+          "廣場",
+          "咖啡",
+          "日常商店",
+          "混合住宅商業"
+        ],
+        "asset_id": "CITY_AREA_MAP_01",
+        "map_id": "AREA-01",
+        "status": "CANDIDATE",
+        "source": "AUTHORITATIVE_V1.3_D.1_TAXONOMY",
+        "humanConfirmed": false
+      },
+      {
+        "area_id": "AREA-02",
+        "player_facing_name": "住宅區",
+        "semantic": [
+          "RESIDENTIAL"
+        ],
+        "visual_identity": [
+          "住宅",
+          "社區",
+          "公園",
+          "生活街道",
+          "鄰里設施"
+        ],
+        "asset_id": "CITY_AREA_MAP_02",
+        "map_id": "AREA-02",
+        "status": "CANDIDATE",
+        "source": "AUTHORITATIVE_V1.3_D.1_TAXONOMY",
+        "humanConfirmed": false
+      },
+      {
+        "area_id": "AREA-03",
+        "player_facing_name": "商業區",
+        "semantic": [
+          "COMMERCIAL"
+        ],
+        "visual_identity": [
+          "密集商業建築",
+          "購物",
+          "咖啡",
+          "醫療",
+          "城市活動設施",
+          "繁華街區"
+        ],
+        "asset_id": "CITY_AREA_MAP_03",
+        "map_id": "AREA-03",
+        "status": "CANDIDATE",
+        "source": "AUTHORITATIVE_V1.3_D.1_TAXONOMY",
+        "humanConfirmed": false
+      },
+      {
+        "area_id": "AREA-04",
+        "player_facing_name": "學區",
+        "semantic": [
+          "EDUCATION",
+          "CAMPUS"
+        ],
+        "visual_identity": [
+          "大學",
+          "校園",
+          "運動場",
+          "學生生活"
+        ],
+        "asset_id": "CITY_AREA_MAP_04",
+        "map_id": "AREA-04",
+        "status": "CANDIDATE",
+        "source": "AUTHORITATIVE_V1.3_D.1_TAXONOMY",
+        "humanConfirmed": false
+      },
+      {
+        "area_id": "AREA-05",
+        "player_facing_name": "娛樂區",
+        "semantic": [
+          "ENTERTAINMENT"
+        ],
+        "visual_identity": [
+          "劇院",
+          "展演",
+          "大型場館",
+          "夜間娛樂",
+          "文化娛樂設施"
+        ],
+        "asset_id": "CITY_AREA_MAP_05",
+        "map_id": "AREA-05",
+        "status": "CANDIDATE",
+        "source": "AUTHORITATIVE_V1.3_D.1_TAXONOMY",
+        "humanConfirmed": false
+      },
+      {
+        "area_id": "AREA-06",
+        "player_facing_name": "工作區",
+        "semantic": [
+          "WORK",
+          "BUSINESS",
+          "LOGISTICS"
+        ],
+        "visual_identity": [
+          "辦公大樓",
+          "商務園區",
+          "物流",
+          "倉儲",
+          "貨車",
+          "工作場所"
+        ],
+        "asset_id": "CITY_AREA_MAP_06",
+        "map_id": "AREA-06",
+        "status": "CANDIDATE",
+        "source": "AUTHORITATIVE_V1.3_D.1_TAXONOMY",
+        "humanConfirmed": false
+      },
+      {
+        "area_id": "AREA-07",
+        "player_facing_name": "海濱區",
+        "semantic": [
+          "WATERFRONT"
+        ],
+        "visual_identity": [
+          "港灣",
+          "海岸",
+          "濱海步道",
+          "餐飲",
+          "遊艇",
+          "海景"
+        ],
+        "asset_id": "CITY_AREA_MAP_07",
+        "map_id": "AREA-07",
+        "status": "CANDIDATE",
+        "source": "AUTHORITATIVE_V1.3_D.1_TAXONOMY",
+        "humanConfirmed": false
+      },
+      {
+        "area_id": "AREA-08",
+        "player_facing_name": "山區／郊區",
+        "semantic": [
+          "MOUNTAIN",
+          "OUTSKIRTS"
+        ],
+        "visual_identity": [
+          "山坡",
+          "觀景",
+          "自然",
+          "郊區道路",
+          "低密度住宅"
+        ],
+        "asset_id": "CITY_AREA_MAP_08",
+        "map_id": "AREA-08",
+        "status": "CANDIDATE",
+        "source": "AUTHORITATIVE_V1.3_D.1_TAXONOMY",
+        "humanConfirmed": false
+      }
+    ],
+    "areaNavigationCandidates": [
+      {
+        "areaId": "AREA-01",
+        "mapId": "AREA-01",
+        "x": 0.34,
+        "y": 0.46,
+        "status": "CANDIDATE",
+        "source": "HUMAN_ASSISTED_VISUAL_REVIEW",
+        "humanConfirmed": false
+      },
+      {
+        "areaId": "AREA-02",
+        "mapId": "AREA-02",
+        "x": 0.2,
+        "y": 0.35,
+        "status": "CANDIDATE",
+        "source": "HUMAN_ASSISTED_VISUAL_REVIEW",
+        "humanConfirmed": false
+      },
+      {
+        "areaId": "AREA-03",
+        "mapId": "AREA-03",
+        "x": 0.62,
+        "y": 0.5,
+        "status": "CANDIDATE",
+        "source": "HUMAN_ASSISTED_VISUAL_REVIEW",
+        "humanConfirmed": false
+      },
+      {
+        "areaId": "AREA-04",
+        "mapId": "AREA-04",
+        "x": 0.43,
+        "y": 0.23,
+        "status": "CANDIDATE",
+        "source": "HUMAN_ASSISTED_VISUAL_REVIEW",
+        "humanConfirmed": false
+      },
+      {
+        "areaId": "AREA-05",
+        "mapId": "AREA-05",
+        "x": 0.76,
+        "y": 0.59,
+        "status": "CANDIDATE",
+        "source": "HUMAN_ASSISTED_VISUAL_REVIEW",
+        "humanConfirmed": false
+      },
+      {
+        "areaId": "AREA-06",
+        "mapId": "AREA-06",
+        "x": 0.79,
+        "y": 0.3,
+        "status": "CANDIDATE",
+        "source": "HUMAN_ASSISTED_VISUAL_REVIEW",
+        "humanConfirmed": false
+      },
+      {
+        "areaId": "AREA-07",
+        "mapId": "AREA-07",
+        "x": 0.7,
+        "y": 0.79,
+        "status": "CANDIDATE",
+        "source": "HUMAN_ASSISTED_VISUAL_REVIEW",
+        "humanConfirmed": false
+      },
+      {
+        "areaId": "AREA-08",
+        "mapId": "AREA-08",
+        "x": 0.28,
+        "y": 0.1,
+        "status": "CANDIDATE",
+        "source": "HUMAN_ASSISTED_VISUAL_REVIEW",
+        "humanConfirmed": false
+      }
+    ],
+    "suppliedPoiCandidates": [
+      {
+        "poiId": "HOSPITAL",
+        "area_id": "AREA-03",
+        "x": 0.86,
+        "y": 0.39,
+        "status": "CANDIDATE",
+        "source": "HUMAN_ASSISTED_VISUAL_REVIEW",
+        "humanConfirmed": false
+      },
+      {
+        "poiId": "EVENT_HALL",
+        "area_id": "AREA-03",
+        "x": 0.85,
+        "y": 0.64,
+        "status": "CANDIDATE",
+        "source": "HUMAN_ASSISTED_VISUAL_REVIEW",
+        "humanConfirmed": false
+      },
+      {
+        "poiId": "CAFE_MAIN",
+        "area_id": "AREA-03",
+        "x": 0.18,
+        "y": 0.62,
+        "status": "CANDIDATE",
+        "source": "HUMAN_ASSISTED_VISUAL_REVIEW",
+        "humanConfirmed": false
+      },
+      {
+        "poiId": "DOWNTOWN",
+        "area_id": "AREA-03",
+        "x": 0.52,
+        "y": 0.48,
+        "status": "CANDIDATE",
+        "source": "HUMAN_ASSISTED_VISUAL_REVIEW",
+        "humanConfirmed": false
+      },
+      {
+        "poiId": "SHOPPING_MALL",
+        "area_id": "AREA-03",
+        "x": 0.53,
+        "y": 0.2,
+        "status": "CANDIDATE",
+        "source": "HUMAN_ASSISTED_VISUAL_REVIEW",
+        "humanConfirmed": false
+      },
+      {
+        "poiId": "UNIVERSITY",
+        "area_id": "AREA-04",
+        "x": 0.5,
+        "y": 0.22,
+        "status": "CANDIDATE",
+        "source": "HUMAN_ASSISTED_VISUAL_REVIEW",
+        "humanConfirmed": false
+      },
+      {
+        "poiId": "NIGHT_HARBOR",
+        "area_id": "AREA-07",
+        "x": 0.82,
+        "y": 0.16,
+        "status": "CANDIDATE",
+        "source": "HUMAN_ASSISTED_VISUAL_REVIEW",
+        "humanConfirmed": false
+      },
+      {
+        "poiId": "BEACH",
+        "area_id": "AREA-07",
+        "x": 0.55,
+        "y": 0.42,
+        "status": "CANDIDATE_WITH_ART_SEMANTIC_GAP",
+        "source": "HUMAN_ASSISTED_VISUAL_REVIEW",
+        "humanConfirmed": false,
+        "semanticGap": true,
+        "gapNote": "AREA-07 現有海灣、礁岸、港灣與濱海步道圖像，沒有明確大型沙灘。"
+      },
+      {
+        "poiId": "PLAYER_HOME",
+        "area_id": "AREA-02",
+        "x": 0.28,
+        "y": 0.83,
+        "status": "CANDIDATE",
+        "source": "HUMAN_ASSISTED_VISUAL_REVIEW",
+        "humanConfirmed": false
+      },
+      {
+        "poiId": "RESIDENTIAL_STREET",
+        "area_id": "AREA-02",
+        "x": 0.3,
+        "y": 0.76,
+        "status": "CANDIDATE",
+        "source": "HUMAN_ASSISTED_VISUAL_REVIEW",
+        "humanConfirmed": false
+      }
+    ],
+    "legacyDistrictCompatibility": {
+      "CENTRAL": {
+        "area_id": "AREA-01",
+        "mapping_status": "COMPATIBILITY_ALIAS",
+        "source": "V1.3_D.1_AREA_TAXONOMY_CANDIDATE",
+        "humanConfirmed": false
+      },
+      "RESIDENTIAL": {
+        "area_id": "AREA-02",
+        "mapping_status": "COMPATIBILITY_ALIAS",
+        "source": "V1.3_D.1_AREA_TAXONOMY_CANDIDATE",
+        "humanConfirmed": false
+      },
+      "COMMERCIAL": {
+        "area_id": "AREA-03",
+        "mapping_status": "COMPATIBILITY_ALIAS",
+        "source": "V1.3_D.1_AREA_TAXONOMY_CANDIDATE",
+        "humanConfirmed": false
+      },
+      "ACADEMIC": {
+        "area_id": "AREA-04",
+        "mapping_status": "COMPATIBILITY_ALIAS",
+        "source": "V1.3_D.1_AREA_TAXONOMY_CANDIDATE",
+        "humanConfirmed": false
+      },
+      "RIVERSIDE": {
+        "area_id": "AREA-07",
+        "mapping_status": "COMPATIBILITY_ALIAS",
+        "source": "V1.3_D.1_AREA_TAXONOMY_CANDIDATE",
+        "humanConfirmed": false
+      },
+      "SEASIDE": {
+        "area_id": "AREA-07",
+        "mapping_status": "COMPATIBILITY_ALIAS",
+        "source": "V1.3_D.1_AREA_TAXONOMY_CANDIDATE",
+        "humanConfirmed": false
+      }
+    },
+    "unassignedAreaVariants": [],
+    "areaAssetStatus": [
+      {
+        "mapId": "AREA-01",
+        "source": "data/UI/AREA-01.png",
+        "runtimePath": "/assets/ui/v1/city/area-art-01.png",
+        "status": "BOUND_TO_STABLE_AREA_ID"
+      },
+      {
+        "mapId": "AREA-02",
+        "source": "data/UI/AREA-02.png",
+        "runtimePath": "/assets/ui/v1/city/area-art-02.png",
+        "status": "BOUND_TO_STABLE_AREA_ID"
+      },
+      {
+        "mapId": "AREA-03",
+        "source": "data/UI/AREA-03.png",
+        "runtimePath": "/assets/ui/v1/city/area-art-03.png",
+        "status": "BOUND_TO_STABLE_AREA_ID"
+      },
+      {
+        "mapId": "AREA-04",
+        "source": "data/UI/AREA-04.png",
+        "runtimePath": "/assets/ui/v1/city/area-art-04.png",
+        "status": "BOUND_TO_STABLE_AREA_ID"
+      },
+      {
+        "mapId": "AREA-05",
+        "source": "data/UI/AREA-05.png",
+        "runtimePath": "/assets/ui/v1/city/area-art-05.png",
+        "status": "BOUND_TO_STABLE_AREA_ID"
+      },
+      {
+        "mapId": "AREA-06",
+        "source": "data/UI/AREA-06.png",
+        "runtimePath": "/assets/ui/v1/city/area-art-06.png",
+        "status": "BOUND_TO_STABLE_AREA_ID"
+      },
+      {
+        "mapId": "AREA-07",
+        "source": "data/UI/AREA-07.png",
+        "runtimePath": "/assets/ui/v1/city/area-art-07.png",
+        "status": "BOUND_TO_STABLE_AREA_ID"
+      },
+      {
+        "mapId": "AREA-08",
+        "source": "data/UI/AREA-08.png",
+        "runtimePath": "/assets/ui/v1/city/area-art-08.png",
+        "status": "BOUND_TO_STABLE_AREA_ID"
+      }
+    ],
+    "worldHotspots": [
+      {
+        "areaId": "CENTRAL",
+        "mapId": "AREA-03",
+        "x": 0.52,
+        "y": 0.43,
+        "oldX": 0.52,
+        "oldY": 0.43,
+        "newX": 0.52,
+        "newY": 0.43,
+        "inBounds": true,
+        "visualConfirmation": "NEEDS_HUMAN_MAP_CONFIRMATION"
+      },
+      {
+        "areaId": "RESIDENTIAL",
+        "mapId": "AREA-08",
+        "x": 0.27,
+        "y": 0.27,
+        "oldX": 0.27,
+        "oldY": 0.27,
+        "newX": 0.27,
+        "newY": 0.27,
+        "inBounds": true,
+        "visualConfirmation": "NEEDS_HUMAN_MAP_CONFIRMATION"
+      },
+      {
+        "areaId": "COMMERCIAL",
+        "mapId": "AREA-06",
+        "x": 0.71,
+        "y": 0.4,
+        "oldX": 0.71,
+        "oldY": 0.4,
+        "newX": 0.71,
+        "newY": 0.4,
+        "inBounds": true,
+        "visualConfirmation": "NEEDS_HUMAN_MAP_CONFIRMATION"
+      },
+      {
+        "areaId": "ACADEMIC",
+        "mapId": "AREA-04",
+        "x": 0.4,
+        "y": 0.56,
+        "oldX": 0.4,
+        "oldY": 0.56,
+        "newX": 0.4,
+        "newY": 0.56,
+        "inBounds": true,
+        "visualConfirmation": "NEEDS_HUMAN_MAP_CONFIRMATION"
+      },
+      {
+        "areaId": "RIVERSIDE",
+        "mapId": "AREA-01",
+        "x": 0.62,
+        "y": 0.66,
+        "oldX": 0.62,
+        "oldY": 0.66,
+        "newX": 0.62,
+        "newY": 0.66,
+        "inBounds": true,
+        "visualConfirmation": "NEEDS_HUMAN_MAP_CONFIRMATION"
+      },
+      {
+        "areaId": "SEASIDE",
+        "mapId": "AREA-07",
+        "x": 0.39,
+        "y": 0.84,
+        "oldX": 0.39,
+        "oldY": 0.84,
+        "newX": 0.39,
+        "newY": 0.84,
+        "inBounds": true,
+        "visualConfirmation": "NEEDS_HUMAN_MAP_CONFIRMATION"
+      }
+    ],
+    "poiAnchors": [
+      {
+        "mapId": "AREA-03",
+        "poiId": "PARK",
+        "poiName": "星光公園",
+        "areaId": "CENTRAL",
+        "x": 0.3,
+        "y": 0.58,
+        "oldX": 0.3,
+        "oldY": 0.58,
+        "newX": 0.3,
+        "newY": 0.58,
+        "calibrationStatus": "AMBIGUOUS",
+        "status": "AMBIGUOUS",
+        "ambiguityCode": null,
+        "visualTarget": "多處綠帶與庭園分散在街區中，圖上沒有唯一可辨識的星光公園地標；保留舊候選點等待人工指定。",
+        "humanApproval": "NEEDS_HUMAN_MAP_CONFIRMATION",
+        "anchorIsPinTip": true,
+        "inBounds": true,
+        "markerVisible": false,
+        "anchorObservedAsPinTip": false,
+        "observedScreens": [],
+        "visualConfirmation": "NEEDS_HUMAN_MAP_CONFIRMATION"
+      },
+      {
+        "mapId": "AREA-03",
+        "poiId": "HOSPITAL",
+        "poiName": "市立醫院",
+        "areaId": "CENTRAL",
+        "x": 0.89,
+        "y": 0.44,
+        "oldX": 0.64,
+        "oldY": 0.3,
+        "newX": 0.89,
+        "newY": 0.44,
+        "calibrationStatus": "CALIBRATED",
+        "status": "CALIBRATED",
+        "ambiguityCode": null,
+        "visualTarget": "AREA-03 右側帶綠色醫療十字的診所立面；pin tip 落在面向道路的主要入口。",
+        "humanApproval": "NEEDS_HUMAN_MAP_CONFIRMATION",
+        "anchorIsPinTip": true,
+        "inBounds": true,
+        "markerVisible": false,
+        "anchorObservedAsPinTip": false,
+        "observedScreens": [],
+        "visualConfirmation": "NEEDS_HUMAN_MAP_CONFIRMATION"
+      },
+      {
+        "mapId": "AREA-03",
+        "poiId": "EVENT_HALL",
+        "poiName": "城市活動場館",
+        "areaId": "CENTRAL",
+        "x": 0.81,
+        "y": 0.75,
+        "oldX": 0.49,
+        "oldY": 0.64,
+        "newX": 0.81,
+        "newY": 0.75,
+        "calibrationStatus": "CALIBRATED",
+        "status": "CALIBRATED",
+        "ambiguityCode": null,
+        "visualTarget": "AREA-03 右下角有活動海報與電影看板的大型場館；pin tip 落在面向人行道的入口。",
+        "humanApproval": "NEEDS_HUMAN_MAP_CONFIRMATION",
+        "anchorIsPinTip": true,
+        "inBounds": true,
+        "markerVisible": false,
+        "anchorObservedAsPinTip": false,
+        "observedScreens": [],
+        "visualConfirmation": "NEEDS_HUMAN_MAP_CONFIRMATION"
+      },
+      {
+        "mapId": "AREA-03",
+        "poiId": "PLAZA",
+        "poiName": "心願廣場",
+        "areaId": "CENTRAL",
+        "x": 0.52,
+        "y": 0.43,
+        "oldX": 0.52,
+        "oldY": 0.43,
+        "newX": 0.52,
+        "newY": 0.43,
+        "calibrationStatus": "AMBIGUOUS",
+        "status": "AMBIGUOUS",
+        "ambiguityCode": null,
+        "visualTarget": "圖上有多處開放廣場與中庭，無法唯一對應心願廣場；保留舊候選點等待人工指定。",
+        "humanApproval": "NEEDS_HUMAN_MAP_CONFIRMATION",
+        "anchorIsPinTip": true,
+        "inBounds": true,
+        "markerVisible": false,
+        "anchorObservedAsPinTip": false,
+        "observedScreens": [],
+        "visualConfirmation": "NEEDS_HUMAN_MAP_CONFIRMATION"
+      },
+      {
+        "mapId": "AREA-08",
+        "poiId": "PLAYER_HOME",
+        "poiName": "我的家",
+        "areaId": "RESIDENTIAL",
+        "x": 0.5,
+        "y": 0.56,
+        "oldX": 0.5,
+        "oldY": 0.56,
+        "newX": 0.5,
+        "newY": 0.56,
+        "calibrationStatus": "AMBIGUOUS",
+        "status": "AMBIGUOUS",
+        "ambiguityCode": null,
+        "visualTarget": "住宅街區包含多棟相似住家，沒有可辨認的玩家住家標記；保留舊候選點等待人工指定。",
+        "humanApproval": "NEEDS_HUMAN_MAP_CONFIRMATION",
+        "anchorIsPinTip": true,
+        "inBounds": true,
+        "markerVisible": false,
+        "anchorObservedAsPinTip": false,
+        "observedScreens": [],
+        "visualConfirmation": "NEEDS_HUMAN_MAP_CONFIRMATION"
+      },
+      {
+        "mapId": "AREA-08",
+        "poiId": "RESIDENTIAL_STREET",
+        "poiName": "櫻花住宅街",
+        "areaId": "RESIDENTIAL",
+        "x": 0.72,
+        "y": 0.35,
+        "oldX": 0.72,
+        "oldY": 0.35,
+        "newX": 0.72,
+        "newY": 0.35,
+        "calibrationStatus": "AMBIGUOUS",
+        "status": "AMBIGUOUS",
+        "ambiguityCode": null,
+        "visualTarget": "可見多條住宅道路，沒有唯一櫻花住宅街入口或道路段；保留舊候選點等待人工指定。",
+        "humanApproval": "NEEDS_HUMAN_MAP_CONFIRMATION",
+        "anchorIsPinTip": true,
+        "inBounds": true,
+        "markerVisible": false,
+        "anchorObservedAsPinTip": false,
+        "observedScreens": [],
+        "visualConfirmation": "NEEDS_HUMAN_MAP_CONFIRMATION"
+      },
+      {
+        "mapId": "AREA-08",
+        "poiId": "FLOWER_STUDIO",
+        "poiName": "舊城花藝工作室",
+        "areaId": "RESIDENTIAL",
+        "x": 0.15,
+        "y": 0.54,
+        "oldX": 0.34,
+        "oldY": 0.66,
+        "newX": 0.15,
+        "newY": 0.54,
+        "calibrationStatus": "AMBIGUOUS",
+        "status": "AMBIGUOUS",
+        "ambiguityCode": "AMBIGUOUS_ART_REFERENCE",
+        "visualTarget": "AMBIGUOUS_ART_REFERENCE：AREA-08 左側中段可見溫室／園藝建物，但無法由圖面確認其為花藝工作室；需由人工指定實際建築後點選校準。",
+        "humanApproval": "NEEDS_HUMAN_MAP_CONFIRMATION",
+        "anchorIsPinTip": true,
+        "inBounds": true,
+        "markerVisible": false,
+        "anchorObservedAsPinTip": false,
+        "observedScreens": [],
+        "visualConfirmation": "NEEDS_HUMAN_MAP_CONFIRMATION"
+      },
+      {
+        "mapId": "AREA-06",
+        "poiId": "CAFE_MAIN",
+        "poiName": "中央咖啡館",
+        "areaId": "COMMERCIAL",
+        "x": 0.36,
+        "y": 0.48,
+        "oldX": 0.36,
+        "oldY": 0.48,
+        "newX": 0.36,
+        "newY": 0.48,
+        "calibrationStatus": "AMBIGUOUS",
+        "status": "AMBIGUOUS",
+        "ambiguityCode": null,
+        "visualTarget": "商業區有多間相似餐飲店，沒有中央咖啡館的獨特招牌；保留舊候選點等待人工指定。",
+        "humanApproval": "NEEDS_HUMAN_MAP_CONFIRMATION",
+        "anchorIsPinTip": true,
+        "inBounds": true,
+        "markerVisible": false,
+        "anchorObservedAsPinTip": false,
+        "observedScreens": [],
+        "visualConfirmation": "NEEDS_HUMAN_MAP_CONFIRMATION"
+      },
+      {
+        "mapId": "AREA-06",
+        "poiId": "DOWNTOWN",
+        "poiName": "繁華街",
+        "areaId": "COMMERCIAL",
+        "x": 0.65,
+        "y": 0.27,
+        "oldX": 0.65,
+        "oldY": 0.27,
+        "newX": 0.65,
+        "newY": 0.27,
+        "calibrationStatus": "AMBIGUOUS",
+        "status": "AMBIGUOUS",
+        "ambiguityCode": null,
+        "visualTarget": "繁華街指向整個商業核心，圖上無唯一街區中心入口；保留舊候選點等待人工指定。",
+        "humanApproval": "NEEDS_HUMAN_MAP_CONFIRMATION",
+        "anchorIsPinTip": true,
+        "inBounds": true,
+        "markerVisible": false,
+        "anchorObservedAsPinTip": false,
+        "observedScreens": [],
+        "visualConfirmation": "NEEDS_HUMAN_MAP_CONFIRMATION"
+      },
+      {
+        "mapId": "AREA-06",
+        "poiId": "SHOPPING_MALL",
+        "poiName": "星河購物中心",
+        "areaId": "COMMERCIAL",
+        "x": 0.72,
+        "y": 0.7,
+        "oldX": 0.72,
+        "oldY": 0.7,
+        "newX": 0.72,
+        "newY": 0.7,
+        "calibrationStatus": "AMBIGUOUS",
+        "status": "AMBIGUOUS",
+        "ambiguityCode": null,
+        "visualTarget": "圖上有數座大型商業建築，沒有可確認為星河購物中心的唯一主入口；保留舊候選點等待人工指定。",
+        "humanApproval": "NEEDS_HUMAN_MAP_CONFIRMATION",
+        "anchorIsPinTip": true,
+        "inBounds": true,
+        "markerVisible": false,
+        "anchorObservedAsPinTip": false,
+        "observedScreens": [],
+        "visualConfirmation": "NEEDS_HUMAN_MAP_CONFIRMATION"
+      },
+      {
+        "mapId": "AREA-06",
+        "poiId": "PHARMACY",
+        "poiName": "社區藥局",
+        "areaId": "COMMERCIAL",
+        "x": 0.32,
+        "y": 0.65,
+        "oldX": 0.32,
+        "oldY": 0.65,
+        "newX": 0.32,
+        "newY": 0.65,
+        "calibrationStatus": "AMBIGUOUS",
+        "status": "AMBIGUOUS",
+        "ambiguityCode": null,
+        "visualTarget": "此圖沒有可辨識的藥局十字或店名，無法確認建築；保留舊候選點等待人工指定。",
+        "humanApproval": "NEEDS_HUMAN_MAP_CONFIRMATION",
+        "anchorIsPinTip": true,
+        "inBounds": true,
+        "markerVisible": false,
+        "anchorObservedAsPinTip": false,
+        "observedScreens": [],
+        "visualConfirmation": "NEEDS_HUMAN_MAP_CONFIRMATION"
+      },
+      {
+        "mapId": "AREA-06",
+        "poiId": "CORPORATE_OFFICE",
+        "poiName": "企業辦公區",
+        "areaId": "COMMERCIAL",
+        "x": 0.66,
+        "y": 0.42,
+        "oldX": 0.66,
+        "oldY": 0.42,
+        "newX": 0.66,
+        "newY": 0.42,
+        "calibrationStatus": "AMBIGUOUS",
+        "status": "AMBIGUOUS",
+        "ambiguityCode": null,
+        "visualTarget": "商業區包含多棟相似辦公樓，沒有唯一企業辦公區標記；保留舊候選點等待人工指定。",
+        "humanApproval": "NEEDS_HUMAN_MAP_CONFIRMATION",
+        "anchorIsPinTip": true,
+        "inBounds": true,
+        "markerVisible": false,
+        "anchorObservedAsPinTip": false,
+        "observedScreens": [],
+        "visualConfirmation": "NEEDS_HUMAN_MAP_CONFIRMATION"
+      },
+      {
+        "mapId": "AREA-04",
+        "poiId": "UNIVERSITY",
+        "poiName": "星澄大學",
+        "areaId": "ACADEMIC",
+        "x": 0.5,
+        "y": 0.28,
+        "oldX": 0.57,
+        "oldY": 0.51,
+        "newX": 0.5,
+        "newY": 0.28,
+        "calibrationStatus": "CALIBRATED",
+        "status": "CALIBRATED",
+        "ambiguityCode": null,
+        "visualTarget": "AREA-04 畫面上方中央的校園主入口門廊；pin tip 落在中央校門開口與校園步道交界。",
+        "humanApproval": "NEEDS_HUMAN_MAP_CONFIRMATION",
+        "anchorIsPinTip": true,
+        "inBounds": true,
+        "markerVisible": false,
+        "anchorObservedAsPinTip": false,
+        "observedScreens": [],
+        "visualConfirmation": "NEEDS_HUMAN_MAP_CONFIRMATION"
+      },
+      {
+        "mapId": "AREA-01",
+        "poiId": "RIVERSIDE_WALK",
+        "poiName": "河岸步道",
+        "areaId": "RIVERSIDE",
+        "x": 0.45,
+        "y": 0.63,
+        "oldX": 0.45,
+        "oldY": 0.63,
+        "newX": 0.45,
+        "newY": 0.63,
+        "calibrationStatus": "AMBIGUOUS",
+        "status": "AMBIGUOUS",
+        "ambiguityCode": null,
+        "visualTarget": "河岸步道沿水岸多處延伸，圖上沒有唯一入口或指定路段；保留舊候選點等待人工指定。",
+        "humanApproval": "NEEDS_HUMAN_MAP_CONFIRMATION",
+        "anchorIsPinTip": true,
+        "inBounds": true,
+        "markerVisible": false,
+        "anchorObservedAsPinTip": false,
+        "observedScreens": [],
+        "visualConfirmation": "NEEDS_HUMAN_MAP_CONFIRMATION"
+      },
+      {
+        "mapId": "AREA-01",
+        "poiId": "RIVERSIDE_BRANCH",
+        "poiName": "河岸分店",
+        "areaId": "RIVERSIDE",
+        "x": 0.71,
+        "y": 0.42,
+        "oldX": 0.71,
+        "oldY": 0.42,
+        "newX": 0.71,
+        "newY": 0.42,
+        "calibrationStatus": "AMBIGUOUS",
+        "status": "AMBIGUOUS",
+        "ambiguityCode": null,
+        "visualTarget": "圖中有多個可作為分店的臨河商業建築，缺少河岸分店的獨特外觀標記。",
+        "humanApproval": "NEEDS_HUMAN_MAP_CONFIRMATION",
+        "anchorIsPinTip": true,
+        "inBounds": true,
+        "markerVisible": false,
+        "anchorObservedAsPinTip": false,
+        "observedScreens": [],
+        "visualConfirmation": "NEEDS_HUMAN_MAP_CONFIRMATION"
+      },
+      {
+        "mapId": "AREA-07",
+        "poiId": "BEACH",
+        "poiName": "月灣海灘",
+        "areaId": "SEASIDE",
+        "x": 0.28,
+        "y": 0.65,
+        "oldX": 0.28,
+        "oldY": 0.65,
+        "newX": 0.28,
+        "newY": 0.65,
+        "calibrationStatus": "AMBIGUOUS",
+        "status": "AMBIGUOUS",
+        "ambiguityCode": null,
+        "visualTarget": "AREA-07 主要是礁岩岸線與港灣步道，沒有清楚的沙灘區域；地圖語意與月灣海灘不符。",
+        "humanApproval": "NEEDS_HUMAN_MAP_CONFIRMATION",
+        "anchorIsPinTip": true,
+        "inBounds": true,
+        "markerVisible": false,
+        "anchorObservedAsPinTip": false,
+        "observedScreens": [],
+        "visualConfirmation": "NEEDS_HUMAN_MAP_CONFIRMATION"
+      },
+      {
+        "mapId": "AREA-07",
+        "poiId": "NIGHT_HARBOR",
+        "poiName": "月光港灣",
+        "areaId": "SEASIDE",
+        "x": 0.88,
+        "y": 0.19,
+        "oldX": 0.72,
+        "oldY": 0.37,
+        "newX": 0.88,
+        "newY": 0.19,
+        "calibrationStatus": "CALIBRATED",
+        "status": "CALIBRATED",
+        "ambiguityCode": null,
+        "visualTarget": "AREA-07 右上方遊艇港的碼頭入口／岸上連接點；避開水面，落在可步行抵達的碼頭根部。",
+        "humanApproval": "NEEDS_HUMAN_MAP_CONFIRMATION",
+        "anchorIsPinTip": true,
+        "inBounds": true,
+        "markerVisible": false,
+        "anchorObservedAsPinTip": false,
+        "observedScreens": [],
+        "visualConfirmation": "NEEDS_HUMAN_MAP_CONFIRMATION"
+      }
+    ],
+    "inBoundsCount": 17,
+    "markerVisibleCount": 0,
+    "humanConfirmedCount": 0,
+    "calibrationStatusCounts": {
+      "CALIBRATED": 4,
+      "ASSET_GAP": 0,
+      "AMBIGUOUS": 13
+    },
+    "worldHotspotsHumanConfirmedCount": 0,
+    "geometryLock": "PARTIAL",
+    "humanReviewStatus": "NEEDS_HUMAN_MAP_CONFIRMATION",
+    "note": "inBounds verifies normalized coordinates only. CALIBRATED records a visually identifiable target candidate, not a human-approved map placement. The six legacy Runtime district centers and eight AREA navigation centers are separate models. AREA taxonomy, new centers, and ten supplied POI anchors remain candidates until human confirmation."
+  },
+  "criticalTouchTargetsBelow44": [],
+  "fullPlayerSurfaceManifest": null,
+  "playerSurfaceInventory": null
+}
